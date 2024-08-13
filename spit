@@ -1,0 +1,5 @@
+trend = analysis: token launch time, 
+token price history = 
+threshold = 
+price = token
+if price > threshold, sell
